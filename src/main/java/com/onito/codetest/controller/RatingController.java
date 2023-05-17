@@ -1,4 +1,4 @@
-package com.example.codetest.controller;
+package com.onito.codetest.controller;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.codetest.repository.RatingsRepo;
+import com.onito.codetest.repository.RatingsRepo;
 
 @RestController
 public class RatingController {

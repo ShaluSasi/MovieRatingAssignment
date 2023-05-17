@@ -1,4 +1,4 @@
-package com.example.codetest.repository;
+package com.onito.codetest.repository;
 
 import java.util.List;
 
@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;
 
-import com.example.codetest.model.Movies;
+import com.onito.codetest.model.Movies;
 
 import jakarta.transaction.Transactional;
 

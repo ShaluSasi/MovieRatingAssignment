@@ -1,4 +1,4 @@
-package com.example.codetest.model;
+package com.onito.codetest.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
